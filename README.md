@@ -1,21 +1,43 @@
 # WISDOM
 
-**WISDOM — AI Governance Framework**
+**WISDOM — Operational Governance Framework for Generative AI**
 
-Minimal operational governance framework for responsible organizational use of Generative AI.
+A minimal, structured framework to ensure ethical and accountable organizational use of Generative AI.
+
+---
+
+## 🔎 Transparency Statement
+
+Generative AI tools were used exclusively to assist with formatting and structuring documentation.
+
+The conceptual framework, safeguards, principles, and governance logic were developed through human expertise and independent reasoning.
+
+WISDOM is a human-designed governance model.
+
+---
+
+## 🎯 Purpose
+
+WISDOM enables organizations to:
+
+* Identify risks associated with specific Generative AI use cases
+* Activate structured Safeguards
+* Define proportionate protection mechanisms
+* Maintain explicit human responsibility
+* Deploy validated operational workflows
+
+WISDOM operates **per use case**, not at an abstract organizational level.
 
 ---
 
 ## What WISDOM Is
 
-WISDOM is an open-source governance framework designed to help organizations:
+WISDOM is:
 
-- Identify impact risks related to Generative AI use
-- Activate structured safeguards
-- Apply proportionate controls
-- Enforce accountable human validation
-
-It is modular, scalable, and use-case driven.
+* A use-case-driven governance framework
+* A structured risk activation mechanism
+* A lightweight but complete safeguard system
+* An operational method producing deployable workflows
 
 ---
 
@@ -23,46 +45,69 @@ It is modular, scalable, and use-case driven.
 
 WISDOM is not:
 
-- A certification
-- An ISO standard
-- A technical model audit
-- A productivity or prompting guide
+* A certification
+* An ISO-like standard
+* A technical model audit
+* A legal compliance substitute
+* A prompting or productivity guide
+* A philosophical ethics debate
 
-It is a governance activation mechanism.
+It is a practical governance activation framework.
 
 ---
 
 ## The WISDOM Model
 
-W — Wellbeing  
-I — Intellectual Property  
-S — Security  
-D — Delegated Judgment  
-O — Overconsumption  
-M — Memory  
+W — Wellbeing
+I — Intellectual Property
+S — Security
+D — Delegated Judgment
+O — Overconsumption
+M — Memory
 
-Each use case may activate one or several safeguards.
+Each Safeguard represents a major category of organizational risk related to Generative AI.
+
+A single use case may activate multiple Safeguards.
 
 ---
 
 ## How It Works
 
-1. Identify a real organizational use case  
-2. Activate relevant safeguards  
-3. Apply the corresponding playbooks  
-4. Assess criticality  
-5. Validate through accountable human oversight  
+For each real organizational use case:
+
+1. Define the use case clearly
+2. Complete the WISDOM Checklist
+3. Activate relevant Safeguards
+4. Apply the corresponding Safeguard playbooks
+5. Formalize a WISDOM Champion Plan
+6. Publish a validated operational Workflow
+
+The result is a **structured, documented, and accountable AI-enabled process**.
 
 ---
 
 ## Repository Structure
 
-- `/the-wisdom-framework` → Core doctrine  
-- `/toolkit` → Activation checklist + Safeguard playbooks  
-- `/use-cases` → Applied real-world examples  
+```
+/the-wisdom-framework   → Conceptual foundation
+/toolkit                → Operational activation templates
+/use-cases              → Applied real-world examples
+```
+
+---
+
+## Governance Philosophy
+
+WISDOM is based on one core principle:
+
+> Performance never compensates for unmanaged risk.
+
+An AI system that improves efficiency but lacks structured safeguards remains non-mastered.
 
 ---
 
 ## License
 
-This project is licensed under CC BY 4.0.
+This project is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+
+If you reuse or adapt WISDOM, you must provide attribution in accordance with CC BY 4.0, including a reference to this repository and indication of modifications.
